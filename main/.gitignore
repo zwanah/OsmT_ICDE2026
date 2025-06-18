@@ -1,0 +1,7 @@
+models/outputs/
+models/wandb/
+pretrain/ckpt/
+osm/
+evaluation/
+prompt4tag/embedding
+
